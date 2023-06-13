@@ -1,4 +1,4 @@
-﻿Shader "Custom/HelloShaderv2"
+﻿Shader "Custom/TeoToonShader"
 {
     Properties
     {
